@@ -8,8 +8,8 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-## ⚙ BACK-END
 - Python
+- OpenAi 
 - Git e Github
 
 
